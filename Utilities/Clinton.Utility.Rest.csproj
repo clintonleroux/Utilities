@@ -6,6 +6,8 @@
     <Nullable>enable</Nullable>
     <RunAnalyzersDuringLiveAnalysis>False</RunAnalyzersDuringLiveAnalysis>
     <AnalysisLevel>latest-recommended</AnalysisLevel>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Authors>Clinton le Roux</Authors>
   </PropertyGroup>
 
   <ItemGroup>
